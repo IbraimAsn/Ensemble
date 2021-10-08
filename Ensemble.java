@@ -35,7 +35,7 @@ public class Ensemble
         }
         else
         {
-            System.out.printf("%s est deja present dans l'ensemble\n",a.toString());
+            System.out.printf("/!\\ %s est deja present dans l'ensemble\n",a.toString());
         }
     }
 
@@ -48,7 +48,7 @@ public class Ensemble
         }
         else
         {
-            System.out.printf("%s n'est pas present dans l'ensemble\n",a.toString());
+            System.out.printf("/!\\ %s n'est pas present dans l'ensemble\n",a.toString());
         }
     }
 
